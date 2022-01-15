@@ -1,0 +1,10 @@
+gradlew
+gradlew.bat
+settings.gradle
+/gradle
+/build
+/.gradle
+/.idea
+Main.java
+data.csv
+data.json
